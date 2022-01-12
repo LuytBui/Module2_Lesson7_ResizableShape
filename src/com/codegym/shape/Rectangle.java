@@ -1,4 +1,4 @@
-package com.codegym;
+package com.codegym.shape;
 
 public class Rectangle extends Shape {
     private double width = 1.0;

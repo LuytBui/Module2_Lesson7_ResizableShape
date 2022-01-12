@@ -1,6 +1,7 @@
-package com.codegym;
 
-public class Circle extends Shape {
+package com.codegym.shape;
+
+public class Circle extends Shape{
     private double radius = 1.0;
 
     public Circle() {

@@ -1,4 +1,4 @@
-package com.codegym;
+package com.codegym.shape;
 
 public class CircleTest {
     public static void main(String[] args) {

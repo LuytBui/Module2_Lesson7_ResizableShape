@@ -1,4 +1,4 @@
-package com.codegym;
+package com.codegym.shape;
 
 public class ShapeTest {
 

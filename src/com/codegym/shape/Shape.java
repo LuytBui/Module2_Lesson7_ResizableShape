@@ -1,4 +1,4 @@
-package com.codegym;
+package com.codegym.shape;
 
 public class Shape {
     private String color = "green";
